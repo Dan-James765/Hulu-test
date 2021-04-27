@@ -9,6 +9,7 @@ function Results({ results }) {
           <Thumbnail key={result.id} result={result} />
         ))}
       </FlipMove>
+      <h1>test</h1>
     </>
   );
 }
